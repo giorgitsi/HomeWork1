@@ -25,9 +25,10 @@ body{
     border: 1px solid black;
     box-shadow: 10px 10px;
     width: 370px;
+    max-width: 100%;
     padding: 10px;
 }
-  
+
 
 
 .image-card img{
@@ -36,8 +37,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 15px;
-
+    margin-top: 1px;
+    width: 100%;
 }
 
 
